@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as e,d as a}from"./app.dbcc4d25.js";const g=JSON.parse('{"title":"Logout","description":"","frontmatter":{},"headers":[],"relativePath":"guide/logout.md","lastUpdated":1673431825000}'),r={name:"guide/logout.md"},s=a("",3),n=[s];function c(i,_,d,l,u,p){return e(),o("div",null,n)}const m=t(r,[["render",c]]);export{g as __pageData,m as default};
